@@ -1,3 +1,5 @@
+<!-- Hook: How many of you are looking to get a job in development after this class?  Today, we're going to start introducing you to common concepts in Computer Science.  While these are incredibly useful thought exercises, and will help you to grow into a great problem solver, there is a more immediate need to learn these concepts: you will see them in interviews.  In some form or another, you will most likely see every one of these problems in some interview over your career, either directly or as a possible solution to an interview problem. -->
+
 # Binary Search
 
 Binary search is a type of search method used to find the position of a target item in a sorted array.
@@ -50,6 +52,8 @@ This process continues, eliminating half of the elements, and comparing the targ
 ## A real-life example
 
 Searching for a name in a telephone book using [Binary Search](https://study.cs50.net/binary_search) (an awesome introduction to the concept).
+
+<!--CFU Mimic the cs50 approach with a piece of paper with a lot of numbers on it, at each step ask students, "Now what do I do?" and rip accordingly.  -->
 
 ### A Few Words About Recursion:
 
@@ -142,7 +146,7 @@ var wdi29Students = ["Wayne", "Vanessa", "Camila", "Min", "Mike Cheng",
 
 
 ## Solutions
-[Solutions](solutions.js)
+[Solutions](solution.js)
 
 ### Further Reading (Includes sample code in Ruby and C++)
 
