@@ -151,5 +151,5 @@ var whiteWalkerStudents = ["Abe", "Holly", "Charlie", "Nick", "Kyle",
 ### Further Reading (Includes sample code in Ruby and C++)
 
 - [Big O Notation cheatsheet](http://bigocheatsheet.com/)
-- [Carnagie Mellon University - Binary Search](http://www.cs.cmu.edu/~15110-f12/Unit05PtB-handout.pdf)
+- [Carnegie Mellon University - Binary Search](http://www.cs.cmu.edu/~15110-f12/Unit05PtB-handout.pdf)
 - [Rob Bell - beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
