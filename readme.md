@@ -139,9 +139,9 @@ var primeNumbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37,
 var months = ["Jan", "Feb", "mar", "Apr", "May", "Jun", "jul",
     "Aug", "Sept", "Oct", "Nov", "Dec"];
 
-var wdi29Students = ["Wayne", "Vanessa", "Camila", "Min", "Mike Cheng", 
-"Michael N", "Emilio", "Matt L.", "Kabah", "Jen", "Valerie", "Kate", "Mike Cruz", 
-"Matt S.", "Sam", "Ben", "Anthony", "Jim"];
+var whiteWalkerStudents = ["Abe", "Holly", "Charlie", "Nick", "Kyle", 
+"Mark", "Monica", "Maddy", "Greg", "Alison", "Matt", "Kayce", "Jamie", 
+"Louie"];
 ```
 
 
