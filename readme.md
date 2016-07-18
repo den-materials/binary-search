@@ -153,3 +153,7 @@ var whiteWalkerStudents = ["Abe", "Holly", "Charlie", "Nick", "Kyle",
 - [Big O Notation cheatsheet](http://bigocheatsheet.com/)
 - [Carnegie Mellon University - Binary Search](http://www.cs.cmu.edu/~15110-f12/Unit05PtB-handout.pdf)
 - [Rob Bell - beginner's guide to Big O notation](https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation/)
+
+## Licensing
+All content is licensed under a CC­BY­NC­SA 4.0 license.
+All software code is licensed under GNU GPLv3. For commercial use or alternative licensing, please contact legal@ga.co.
