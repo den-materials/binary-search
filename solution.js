@@ -24,7 +24,7 @@ function binarySearchIterative(array, target) {
   // return null if the target is not found
   return null;
 }
-
+ 
 var testArray = [1,2,3,4,5,6,7,8,9,10];
 console.log(binarySearchIterative(testArray, 3, 1, 10));
 console.log(binarySearchIterative(testArray, 7, 1, 10));
