@@ -1,4 +1,4 @@
-<!-- Hook: How many of you are looking to get a job in development after this class?  Today, we're going to start introducing you to common concepts in Computer Science.  While these are incredibly useful thought exercises, and will help you to grow into a great problem solver, there is a more immediate need to learn these concepts: you will see them in interviews.  In some form or another, you will most likely see every one of these problems in some interview over your career, either directly or as a possible solution to an interview problem. -->
+<!-- Hook: How many of you are looking to get a job in development after this class?  Today, we're going to start introducing you to common concepts in Computer Science.  While these are incredibly useful thought exercises, and will help you to grow into a great problem solver, there is a more immediate need to learn these concepts: you will see them in interviews.-->
 
 # Binary Search
 
@@ -10,9 +10,9 @@ function binarySearch(array, target) {
 };
 
 var sample = [0, 1, 3, 5, 8, 13, 21];
-var target = 1;
+var target = 3;
 
-binarySearch(sample, 1); 
+binarySearch(sample, 3); 
 // 2 (the index it is located at in the sample array)
 
 ```
@@ -60,32 +60,32 @@ Searching for a name in a telephone book using [Binary Search](https://study.cs5
 Recursion is a technique where a function calls itself to do the same repetitive task 
 on smaller versions of the original argument.
 
-We're going to create a function to `countRecursively` which calls itself. Often developers just use a letter to represent a big word they don't want to type:
+We're going to create a function to `countRecursively` which calls itself:
 
 ``` js
-var countR = function(num){
+var countRecursively = function(num){
     console.log(num);
     if(num > 0) {
-        countR(num-1)
+        countRecursively(num-1)
     };
 };
 
 ```
 
-For simple tasks you may be able to accomplish the same result with a `do while` statement:
+For simple tasks you may be able to accomplish the same result with a `while` statement:
 
 ``` js
 var countD = function(num){
     var i = 0;
-    do {
+    while (i < num) {
        i += 1;
        console.log(i);
-    } while (i < num);
+    }
 };
 
 ```
 
-Here is another recursive function: 
+But for more complex tasks, recursion is a useful tool. Here is another recursive function: 
 
 ``` js
 var singBottles = function(c){
@@ -136,12 +136,10 @@ var primeNumbers = [2, 3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37,
     523, 541];
 
 // string arrays to sort:
-var months = ["Jan", "Feb", "mar", "Apr", "May", "Jun", "jul",
+var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "jul",
     "Aug", "Sept", "Oct", "Nov", "Dec"];
 
-var whiteWalkerStudents = ["Abe", "Holly", "Charlie", "Nick", "Kyle", 
-"Mark", "Monica", "Maddy", "Greg", "Alison", "Matt", "Kayce", "Jamie", 
-"Louie"];
+var codeWalkerStudents = ["Brian", "Clay", "Douglas", "Erik", "Gisella", "Guy", "Kevin", "Larry", "Merry", "Micah", "Nate"];
 ```
 
 
