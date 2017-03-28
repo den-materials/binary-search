@@ -51,11 +51,15 @@ This process continues, eliminating half of the elements, and comparing the targ
 
 [Source Wikipedia](https://en.wikipedia.org/wiki/Binary_search_algorithm)
 
+<!--9:14 -->
+
 ## A real-life example
 
 Searching for a name in a telephone book using [Binary Search](https://study.cs50.net/binary_search) (an awesome introduction to the concept).
 
 <!--CFU Mimic the cs50 approach with a piece of paper with a lot of numbers on it, at each step ask students, "Now what do I do?" and rip accordingly.  -->
+
+<!--9:19 -->
 
 ### A Few Words About Recursion:
 
@@ -108,6 +112,7 @@ var singBottles = function(c){
 
 Binary search offers an excellent challenge to practice writing a recursive function.
 
+<!--9:24 -->
 
 ## Exercise
 
@@ -115,6 +120,7 @@ Each student will be assigned a number. Based on their number, the students will
 
 After this real-life demo, students will pseudocode their plan for implementing a binary search, swap solutions with a partner from across the room, exchange feedback, and then start coding.
 
+<!--9:30 -->
 
 **Stretch**
 
