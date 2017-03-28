@@ -1,3 +1,5 @@
+<!--Actually 9:05 -->
+
 <!-- Hook: How many of you are looking to get a job in development after this class?  Today, we're going to start introducing you to common concepts in Computer Science.  While these are incredibly useful thought exercises, and will help you to grow into a great problem solver, there is a more immediate need to learn these concepts: you will see them in interviews.-->
 
 # Binary Search
