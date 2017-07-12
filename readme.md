@@ -121,6 +121,9 @@ Each student will be assigned a number. Based on their number, the students will
 After this real-life demo, students will pseudocode their plan for implementing a binary search, swap solutions with a partner from across the room, exchange feedback, and then start coding.
 
 <!--9:30 -->
+<!--9:28 WDI4 After individual pseudo-coding-->
+<!--9:33 WDI4 After squad discussion -->
+<!--10:14 WDI4 After walking through solution -->
 
 **Stretch**
 
