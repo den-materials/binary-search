@@ -26,8 +26,8 @@ function binarySearchIterative(array, target) {
 }
  
 var testArray = [1,2,3,4,5,6,7,8,9,10];
-console.log(binarySearchIterative(testArray, 3, 1, 10));
-console.log(binarySearchIterative(testArray, 7, 1, 10));
+console.log(binarySearchIterative(testArray, 3));
+console.log(binarySearchIterative(testArray, 7));
 
 
 // STRETCH 1:
@@ -53,8 +53,8 @@ function binarySearchRecursive(array, target, low, high) {
 }
 
 var testArray = [1,2,3,4,5,6,7,8,9,10];
-console.log(binarySearchRecursive(testArray, 3, 1, 10));
-console.log(binarySearchRecursive(testArray, 7, 1, 10));
+console.log(binarySearchRecursive(testArray, 3, 0, 9));
+console.log(binarySearchRecursive(testArray, 7, 0, 9));
 
 
 
