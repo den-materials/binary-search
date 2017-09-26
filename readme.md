@@ -1,3 +1,5 @@
+<!--9:02 WDI5 -->
+
 <!--Actually 9:05 -->
 
 <!-- Hook: How many of you are looking to get a job in development after this class?  Today, we're going to start introducing you to common concepts in Computer Science.  While these are incredibly useful thought exercises, and will help you to grow into a great problem solver, there is a more immediate need to learn these concepts: you will see them in interviews.-->
@@ -121,6 +123,7 @@ Each student will be assigned a number. Based on their number, the students will
 After this real-life demo, students will pseudocode their plan for implementing a binary search, swap solutions with a partner from across the room, exchange feedback, and then start coding.
 
 <!--9:30 -->
+<!--WDI5 9:41 after individual pseudo-coding -->
 <!--9:28 WDI4 After individual pseudo-coding-->
 <!--9:33 WDI4 After squad discussion -->
 <!--10:14 WDI4 After walking through solution -->
@@ -153,6 +156,7 @@ var months = ["Jan", "Feb", "Mar", "Apr", "May", "Jun", "jul",
 var codeWalkerStudents = ["Brian", "Clay", "Douglas", "Erik", "Gisella", "Guy", "Kevin", "Larry", "Merry", "Micah", "Nate"];
 ```
 
+<!--WDI5 let devs run until 10:25, then break at 10:33 after solution runthrough -->
 
 ## Solutions
 [Solutions](solution.js)
