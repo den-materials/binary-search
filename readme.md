@@ -157,7 +157,7 @@ var codeWalkerStudents = ["Brian", "Clay", "Douglas", "Erik", "Gisella", "Guy", 
 ```
 
 <!--WDI5 let devs run until 10:25, then break at 10:33 after solution runthrough -->
-<!--WDI6 finished pseudocoding with squads around 9:40, coding until 10:40, then solution runthrough-->
+<!--WDI6 finished pseudocoding with squads around 9:40, coding until 10:30, then solution runthrough-->
 
 ## Solutions
 [Solutions](solution.js)
